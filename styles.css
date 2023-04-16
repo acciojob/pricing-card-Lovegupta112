@@ -13,7 +13,8 @@ main{
     top:4rem;
    align-items: center ;
    padding:1.5rem 0.2rem;
-   border-radius: 10px;
+   /* border-radius: 10px; */
+   box-shadow:2px 2px 10px 3px rgb(219, 216, 216);
 }
 
 .content{
